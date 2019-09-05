@@ -2,7 +2,7 @@
 # Apresentações eletrônicas com Powerpoint
 
 ## Visão geral do Software
-![](Imagem/visão-geral.png)
+
 ## Assistente de criação
 
 
